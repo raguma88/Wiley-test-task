@@ -1,6 +1,6 @@
 # Wiley QA engineer test task
 
-Autotests for some functionalities of Wiley web site. There is used in this project:
+Autotests for some functionalities of Wiley web site. Technology stack:
 
   - Java 8
   - Selenium WebDriver 3.14.0
